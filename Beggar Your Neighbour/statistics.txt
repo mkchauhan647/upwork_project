@@ -1,0 +1,1 @@
+/// @brief This statistics file output from beggar your neighbour.
